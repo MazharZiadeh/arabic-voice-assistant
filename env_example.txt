@@ -1,0 +1,14 @@
+# OpenAI Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# ElevenLabs Configuration
+ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+
+# Voice Assistant Configuration - Arabic Only
+DEFAULT_LANGUAGE=ar
+DEFAULT_VOICE_ID=your_custom_voice_id_here
+VOICE_MODEL=eleven_multilingual_v2
+
+# Office Assistant Settings
+OFFICE_NAME=Your Office Name
+ASSISTANT_NAME=المساعد الذكي

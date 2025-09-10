@@ -1,0 +1,54 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Memory files
+assistant_memory.pkl
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test outputs
+test_output/
+test_results/
+
+# Archive folder (development files)
+archive/
+
+# Backup files
+*.bak
+*.backup
